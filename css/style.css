@@ -2121,6 +2121,8 @@ body {
     position: relative;
     left: -1px;
     top: -1px;
+    
+    text-indent: -2px;
   }
   
   .search {
